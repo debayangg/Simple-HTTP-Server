@@ -11,7 +11,7 @@ The project consists of four main parts:
 2. Apache Maven 3.8.7
 
 # Testing:
-Unit testing has been implemented for one mthod parseRequest of HttpParser using JUnit 4.
+Unit testing has been implemented for one method parseRequest of HttpParser using JUnit 4.
 
 # Notes:
 1. Currently the project can only read simple HTTP/1.1 requests and irrespective of method serves the same html file.
