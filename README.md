@@ -21,3 +21,4 @@ Unit testing has been implemented for one method parseRequest of HttpParser usin
 # Notes:
 1. Currently the project can only read simple HTTP/1.1 requests and irrespective of method serves the same html file.
 2. Test coverage is very low and has to be improved.
+3. Project is inspired from [CoderFromScratch](https://github.com/CoderFromScratch/simple-java-http-server).
