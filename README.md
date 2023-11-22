@@ -9,7 +9,7 @@ The project consists of four main parts:
 
 3.ConfigurationManager - Sets up our port and webroot where our server operates on from config file.
 
-4.JsonParser - Parses the config.json file using jackson api.
+4.JsonParser - Parses the config.json file using jackson API.
 
 # Dependencies:
 1. JDK - 11
