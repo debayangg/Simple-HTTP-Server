@@ -44,7 +44,7 @@ public class ConfigurationManager {
     }
     public Configuration getCurrentConfiguration() {
         if ( currentconfiguration == null) {
-            throw new HttpConfigurationException("No Current Configuration Set.");
+            throw new HttpConfigurationException("No Current Configuration Set.")
         }
         return currentconfiguration;
     }
